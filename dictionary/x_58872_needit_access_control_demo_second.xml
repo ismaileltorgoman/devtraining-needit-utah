@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9f43598947120210eadff3f2e16d431f" label="Access Control Demo Second" max_length="40" name="x_58872_needit_access_control_demo_second" type="collection">
+        <element label="Test 1" max_length="40" name="test_1" type="string"/>
+        <element label="Test 2" max_length="40" name="test_2" type="string"/>
+    </element>
+</database>
