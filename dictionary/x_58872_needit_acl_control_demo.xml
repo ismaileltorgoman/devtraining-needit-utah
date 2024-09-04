@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b06d8d0547120210eadff3f2e16d435f" label="ACL Control Demo" max_length="40" name="x_58872_needit_acl_control_demo" type="collection">
+        <element label="Test 1" max_length="40" name="test_1" type="string"/>
+        <element label="Test 2" max_length="40" name="test_2" type="string"/>
+    </element>
+</database>

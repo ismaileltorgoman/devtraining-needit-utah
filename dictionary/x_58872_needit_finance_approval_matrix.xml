@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a67d8ca347460210eadff3f2e16d43b3" label="Finance Approval Matrix" max_length="40" name="x_58872_needit_finance_approval_matrix" type="collection">
+        <element display="true" label="approver 1" max_length="32" name="approver_1" reference="sys_user" type="reference"/>
+        <element label="location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <index name="index">
+            <element name="approver_1"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>
